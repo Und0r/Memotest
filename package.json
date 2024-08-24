@@ -1,0 +1,25 @@
+{
+  "name": "memotest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Und0r/Memotest.git"
+  },
+  "author": "Sergio Barria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Und0r/Memotest/issues"
+  },
+  "homepage": "https://github.com/Und0r/Memotest#readme",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "cypress": "^13.13.3"
+  }
+}
